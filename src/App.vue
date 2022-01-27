@@ -3,7 +3,7 @@
     <div class="category-filter">
       <v-input
         v-model="categoryName"
-        placeholder="Busca una categoria"
+        placeholder="Search a category by name"
         class="search-input"
       />
 

@@ -2,7 +2,7 @@
   <div class="category-card">
     <v-image
       :src="category.image"
-      :alt="category.name.esp"
+      :alt="category.name.eng"
       class="category-image"
     />
 
