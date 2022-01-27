@@ -27,7 +27,7 @@ export default Vue.extend({
   props: {
     color: {
       type: String,
-      default: "#727272",
+      default: "var(--gray-darkened)",
     },
   },
 });
